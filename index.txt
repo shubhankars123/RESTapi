@@ -1,0 +1,3 @@
+mongo cluster username pass = duuvVsoVYSLsKdwx
+
+mongodb+srv://<username>:<password>@shubhankarapi.m5jptrt.mongodb.net/

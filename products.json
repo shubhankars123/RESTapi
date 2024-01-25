@@ -1,0 +1,104 @@
+[ 
+    {
+        "name" : "iPhone",
+        "price" : 1546,
+        "feature" : true,
+        "company" : "apple"
+    },
+    {
+        "name" : "iPhone",
+        "price" : 1546,
+        "feature" : true,
+        "company" : "apple"
+    },
+    {
+        "name" : "iPhone",
+        "price" : 1546,
+        "feature" : true,
+        "company" : "apple"
+    },
+    {
+        "name" : "iPhone",
+        "price" : 1546,
+        "feature" : true,
+        "company" : "apple"
+    },
+    {
+        "name" : "iPhone",
+        "price" : 1546,
+        "feature" : true,
+        "company" : "apple"
+    },
+    {
+        "name" : "iPhone",
+        "price" : 1546,
+        "feature" : true,
+        "company" : "apple"
+    },
+    {
+        "name" : "iPhone",
+        "price" : 1546,
+        "feature" : true,
+        "company" : "apple"
+    },
+    {
+        "name" : "iPhone",
+        "price" : 1546,
+        "feature" : true,
+        "company" : "apple"
+    },
+    {
+        "name" : "iPhone",
+        "price" : 1546,
+        "feature" : true,
+        "company" : "apple"
+    },
+    {
+        "name" : "iPhone",
+        "price" : 1546,
+        "feature" : true,
+        "company" : "apple"
+    },
+    {
+        "name" : "iPhone",
+        "price" : 1546,
+        "feature" : true,
+        "company" : "apple"
+    },
+    {
+        "name" : "iPhone",
+        "price" : 1546,
+        "feature" : true,
+        "company" : "apple"
+    },
+    {
+        "name" : "iPhoneX",
+        "price" : 1546,
+        "feature" : true,
+        "company" : "apple"
+    },
+    {
+        "name" : "iPhone14",
+        "price" : 1546,
+        "feature" : true,
+        "company" : "apple"
+    },
+    {
+        "name" : "iPhoneX",
+        "price" : 1546,
+        "feature" : true,
+        "company" : "apple"
+    },
+    {
+        "name" : "note 4",
+        "price" : 1546,
+        "feature" : true,
+        "company" : "redmi"
+    },
+    {
+        "name" : "note 4",
+        "price" : 1546,
+        "feature" : true,
+        "company" : "redmi"
+    }
+]
